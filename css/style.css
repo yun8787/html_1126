@@ -1,31 +1,16 @@
-body {
-
-background-color: rgba(230, 250, 46, 0.856);
-
-
-}
-
-a {
-
-    text-decoration:none;
-}
-
-
-section {
-
-    background-color: rgba(250, 46, 158, 0.856);
-
-}
-
-
-.lkk{
-
-    background-color: rgba(93, 13, 221, 0.856);
-
-}
-
-
-#spp{
-
-    background-color: rgba(14, 89, 226, 0.856);
-}
+body{
+    background-color: #00aaff;
+    text-align:center;
+  }
+  
+  h1{
+    background-color: #ffffff;
+  }
+  
+  p{
+    font-size: 18px;
+  }
+  
+  canvas{
+    border: thin solid red;
+  }
